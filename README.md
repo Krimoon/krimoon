@@ -4,7 +4,7 @@
 
 Born and raised in Morocco, I've been passionate about cybersecurity, design, and technology. Since 2011, I've been building and optimizing web solutions with a primary focus on WordPress development.
 
-![Web Developer](https://www.freemoroccan.com/wp-content/uploads/2025/02/web_developer_morocco-4.png)
+![Web Developer](https://www.freemoroccan.com/karim.gif)
 
 ---
 
