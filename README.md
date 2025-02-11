@@ -50,6 +50,8 @@ Born and raised in Morocco, I've been passionate about cybersecurity, design, an
 
 ## 🌍 Connect with Me
 
-[![Upwork](https://www.freemoroccan.com/wp-content/uploads/2025/02/upwork.svg)](https://www.upwork.com/freelancers/~0128cc78600d4107c2) [![LinkedIn](https://www.freemoroccan.com/wp-content/uploads/2025/02/linkedin-1.svg)](https://www.linkedin.com/in/krimoon/) [![GitHub](https://www.freemoroccan.com/wp-content/uploads/2025/02/github-3.svg)](https://github.com/krimoon)
+<a href="https://www.upwork.com/freelancers/~0128cc78600d4107c2" target="_blank"><img src="https://www.freemoroccan.com/wp-content/uploads/2025/02/upwork.svg" width="24"></a> 
+<a href="https://www.linkedin.com/in/krimoon/" target="_blank"><img src="https://www.freemoroccan.com/wp-content/uploads/2025/02/linkedin-1.svg" width="24"></a> 
 
 📩 **Want to work with me?** Reach out via [my website](https://www.freemoroccan.com/contact/) or connect on GitHub!
+
